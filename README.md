@@ -15,7 +15,7 @@ These agents work together to provide comprehensive financial insights when you 
 
 Below is an example of the agent's output when analyzing HCL Technologies:
 
-![HCL Technologies Analysis Output](screenshot.png)
+![HCL Technologies Analysis Output](https://github.com/jchowdhary/financialAgenticAI/blob/main/screenshot.png)
 
 *The image shows analyst recommendations from firms like Goldman Sachs, Morgan Stanley, and JPMorgan, along with recent news about HCL's partnerships and earnings reports.*
 
