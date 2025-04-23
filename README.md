@@ -1,6 +1,6 @@
 # Financial AI Agent using Phidata
 
-This project demonstrates an agentic AI workflow built with [Phidata](https://github.com/phidatahq/phidata) [Now it is called as Agno], which enables the creation of AI agents with specific tools and capabilities. The application uses multiple AI agents to gather financial information by searching the web and retrieving stock data for any company.
+This project demonstrates an agentic AI workflow built with [Phidata](https://github.com/phidatahq/phidata) [Now it is called as Agno(https://github.com/agno-agi/agno)], which enables the creation of AI agents with specific tools and capabilities. The application uses multiple AI agents to gather financial information by searching the web and retrieving stock data for any company.
 
 ## Overview
 
