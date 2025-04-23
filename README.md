@@ -11,6 +11,14 @@ The Financial AI Agent combines two specialized agents:
 
 These agents work together to provide comprehensive financial insights when you query about a specific company.
 
+## Example Output
+
+Below is an example of the agent's output when analyzing HCL Technologies:
+
+![HCL Technologies Analysis Output](screenshot.png)
+
+*The image shows analyst recommendations from firms like Goldman Sachs, Morgan Stanley, and JPMorgan, along with recent news about HCL's partnerships and earnings reports.*
+
 ## Features
 
 - Web search for company information with source citations
