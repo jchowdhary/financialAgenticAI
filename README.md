@@ -41,7 +41,7 @@ Below is an example of the agent's output when analyzing HCL Technologies:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/financial-ai-agent.git
+   git clone https://github.com/jchowdhary/financial-ai-agent.git
    cd financial-ai-agent
    ```
 
